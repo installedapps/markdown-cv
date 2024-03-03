@@ -8,7 +8,9 @@ title: Artur Gamrat's CV
 <div id="webaddress">
 <a href="artur.gamrat@proton.me">artur.gamrat@proton.me</a>
  <a href ="02041497570">02041497570</a> 
-</div>
+ <a href ="https://github.com/installedapps"> Github</a>
+ <a href = "https://www.linkedin.com/in/artur-gamrat-0165b2286/">Linkedin</a>
+ </div>
 
 
 ## Summary
