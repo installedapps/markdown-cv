@@ -48,9 +48,9 @@ Bachelor of Arts (Psychology/Criminology)
 
 
 ## Experience
-### Sales Assistant, JB-HiFI
+### Sales Assistant, JB-HiFI (Auckland, NZ)
 
-`09-2023/11-2023,Auckland,NZ`
+`09-2023/11-2023`
 -  Helped customers choose products, provided information, and addressed inquiries to boost sales.
 -  Upsold warranties and solutions to generate revenue.
 -  Collaborated with the sales team to meet daily and monthly targets.
@@ -58,9 +58,9 @@ Bachelor of Arts (Psychology/Criminology)
 -  Received commendations for exceptional service and product knowledge.
 -  Assisted with visual merchandising to maintain a presentable store.
 
-### Sales Assistant, Sketchers
+### Sales Assistant, Sketchers (Adelaide, AU)
 
-`09-2022/07-2023,Adelaide,AU`
+`09-2022/07-2023`
 - Processed transactions efficiently using a POS system.
 - Restocked shelves to ensure product availability
 - Contributed to visual merchandising standards
